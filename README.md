@@ -45,3 +45,17 @@
 > **In me, you will find not only a security engineering leader but a catalyst for principled progress—proving that true leadership ascends by uplifting others. Together, we forge a future where digital safety is universal, equitable, and unyielding.** 
 >
 > -----
+
+<br><br>
+
+> ## [View the NOTICE for all repositories](https://github.com/mrsamrohan/mrsamrohan/blob/main/notice.md#notice)
+
+> ## [Learn more about Mastering Markdown for Technical Documentation](https://github.com/mrsamrohan/mrsamrohan/blob/main/mastering_markdown.md#mastering-markdown-for-technical-documentation)
+
+> ## [Explore The Next-Generation Researcher’s Compendium](https://github.com/mrsamrohan/mrsamrohan/blob/main/research_compendium.md#the-next-generation-researchers-compendium-bridging-philosophical-rigor-and-technological-innovation-in-modern-scholarship)
+
+> ## [Explore The Open-Source Revolution](https://github.com/mrsamrohan/mrsamrohan/blob/main/opensource_revolution.md#the-open-source-revolution-how-foss-is-democratizing-innovation-and-reshaping-society)
+
+> ## [Explore Democratizing Innovation](https://github.com/mrsamrohan/mrsamrohan/blob/main/democratizing_innovstion.md#democratizing-innovation-how-open-source-philosophy-is-reshaping-scientific-engineering-and-technological-research)
+
+<br><br>
