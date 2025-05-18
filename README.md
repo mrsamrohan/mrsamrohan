@@ -48,14 +48,42 @@
 
 <br><br>
 
-> ## [View the NOTICE for all repositories](https://github.com/mrsamrohan/mrsamrohan/blob/main/notice.md#notice)
+> ## [View the NOTICE for all repositories.](https://github.com/mrsamrohan/mrsamrohan/blob/main/notice.md#notice)
 
-> ## [Learn more about Mastering Markdown for Technical Documentation](https://github.com/mrsamrohan/mrsamrohan/blob/main/mastering_markdown.md#mastering-markdown-for-technical-documentation)
+<br>
 
-> ## [Explore The Next-Generation Researcher’s Compendium](https://github.com/mrsamrohan/mrsamrohan/blob/main/research_compendium.md#the-next-generation-researchers-compendium-bridging-philosophical-rigor-and-technological-innovation-in-modern-scholarship)
+> ## [Review the Student Training Agreement.](https://github.com/mrsamrohan/mrsamrohan/blob/main/student_training_agreement.md#mr-sam-rohan)
 
-> ## [Explore The Open-Source Revolution](https://github.com/mrsamrohan/mrsamrohan/blob/main/opensource_revolution.md#the-open-source-revolution-how-foss-is-democratizing-innovation-and-reshaping-society)
+<br>
 
-> ## [Explore Democratizing Innovation](https://github.com/mrsamrohan/mrsamrohan/blob/main/democratizing_innovstion.md#democratizing-innovation-how-open-source-philosophy-is-reshaping-scientific-engineering-and-technological-research)
+> ## [Explore Institutional to Industrial Transition: A Holistic Skill Development Program.](https://github.com/mrsamrohan/mrsamrohan/blob/main/institutional_to_industrial_transition.md#institutional-to-industrial-transition-a-holistic-skill-development-program)
+
+<br>
+
+> ## [Read The $35.6 Trillion Wake-Up Call!](https://github.com/mrsamrohan/mrsamrohan/blob/main/the_%2435_6_trillion_wake_up_call.md.md#the-356-trillion-wake-up-call)
+
+<br>
+
+> ## [Dive into the Advanced DevSecOps Tactical Training Blueprint.](https://github.com/mrsamrohan/mrsamrohan/blob/main/advanced_devsecops_tactical_training_blueprint.md#advanced-devsecops-tactical-training-blueprint-building-cyberresilient-futures-through-collaborative-mastery)
+
+<br>
+
+> ## [Explore SHIELD ECOSYSTEMS: Engineering Resilience Through Decentralized Action.](https://github.com/mrsamrohan/mrsamrohan/blob/main/shield_ecosystems.md#shield-ecosystems-engineering-resilience-through-decentralized-action)
+
+<br>
+
+> ## [Learn more about Mastering Markdown for Technical Documentation.](https://github.com/mrsamrohan/mrsamrohan/blob/main/mastering_markdown.md#mastering-markdown-for-technical-documentation)
+
+<br>
+
+> ## [Explore The Next-Generation Researcher’s Compendium.](https://github.com/mrsamrohan/mrsamrohan/blob/main/research_compendium.md#the-next-generation-researchers-compendium-bridging-philosophical-rigor-and-technological-innovation-in-modern-scholarship)
+
+<br>
+
+> ## [Explore The Open-Source Revolution.](https://github.com/mrsamrohan/mrsamrohan/blob/main/opensource_revolution.md#the-open-source-revolution-how-foss-is-democratizing-innovation-and-reshaping-society)
+
+<br>
+
+> ## [Explore Democratizing Innovation.](https://github.com/mrsamrohan/mrsamrohan/blob/main/democratizing_innovstion.md#democratizing-innovation-how-open-source-philosophy-is-reshaping-scientific-engineering-and-technological-research)
 
 <br><br>
