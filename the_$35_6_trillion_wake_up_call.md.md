@@ -118,7 +118,7 @@ Perhaps the silver lining in the DevSecOps story is the **enormous career potent
 
 <br>
 
-<h3 align="center">The Economic Urgency - \$35.6 Trillion Global Cybercrime Impact:</h3>
+<h3 align="center">The Economic Urgency - $35.6 Trillion Global Cybercrime Impact:</h3>
 
 <br>
 
