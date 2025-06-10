@@ -47,4 +47,17 @@
 > -----
 
 <br><br>
- 
+
+ > -----
+> 
+> ![image](https://pbs.twimg.com/media/GtGNMxvbMAQTKc1?format=jpg&name=medium)
+> 
+> -----
+
+<br>
+
+> ## [INSTITUTIONAL TO INDUSTRIAL TRANSITION: A HOLISTIC SKILL DEVELOPMENT PROGRAM FOR NEXT-GEN EMPLOYERS & EMPLOYEES - EMPOWERING EQUILIBRIUM IN INDUSTRY THROUGH DUAL-TRACK EXCELLENCE.](https://github.com/mrsamrohan/mrsamrohan/blob/main/institutional_to_industrial_transition.md#institutional-to-industrial-transition)
+
+
+
+
