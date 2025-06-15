@@ -40,6 +40,14 @@
 - The **Employee Module** forges a high-performance workforce with *technical proficiency, adaptable soft skills, and workplace excellence*.  
 > Together, these tracks converge to **empower industry-wide equilibrium**—transforming talent pipelines and leadership cadres into engines of collective prosperity.  
 
+<br>
+
+<h3 align="center">I2IT Free Tier: </h3>
+<h3 align="center">Your Foundation for Institutional to  Industrial Transformation.</h3>
+
+<br>
+
+Designed to democratize access to industry-critical knowledge, our free tier delivers **comprehensive foundational resources** for both aspiring business leaders and emerging professionals. This suite includes end-to-end business lifecycle guides, peer-reviewed research, technical tutorials, implementation-ready code repositories, multimedia learning modules, and hardware deployment manuals. These assets empower self-driven exploration across enterprise operations, advanced engineering, and computational science domains—enabling experimentation and skill application without barriers. By providing equitable access to these tools, the free tier fuels I2IT's core mission: cultivating a **symbiotic talent ecosystem** where employers and employees co-develop capabilities to drive sustainable innovation, socioeconomic equilibrium, and collective industrial advancement. 
 
 
 
