@@ -59,5 +59,34 @@
 > ## [INSTITUTIONAL TO INDUSTRIAL TRANSITION: A HOLISTIC SKILL DEVELOPMENT PROGRAM FOR NEXT-GEN EMPLOYERS & EMPLOYEES - EMPOWERING EQUILIBRIUM IN INDUSTRY THROUGH DUAL-TRACK EXCELLENCE.](https://github.com/mrsamrohan/mrsamrohan/blob/main/institutional_to_industrial_transition.md#institutional-to-industrial-transition)
 
 
+<br><br>
 
+> -----
+> 
+> ![image](https://pbs.twimg.com/media/GrcOvVmaMAExQ46?format=jpg&name=4096x4096)
+> 
+> -----
+
+<br>
+
+> ## [View the NOTICE for all repositories.](https://github.com/mrsamrohan/mrsamrohan/blob/main/notice.md#notice)
+
+<br>
+
+> ## [Review the Student Training Agreement.](https://github.com/mrsamrohan/mrsamrohan/blob/main/student_training_agreement.md#mr-sam-rohan)
+
+<br><br>
+
+<h4 align="center">STAY TUNED FOR THE LATEST UPDATES!</h4>
+
+<br><br>
+
+<p align="center">
+    <a href="https://github.com/mrsamrohan">
+        <img src="https://img.shields.io/badge/CLICK%20HERE%20TO%20VISIT%20OUR%20HOME%20PAGE!-28a745?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" 
+             alt="View my GitHub" style="margin: 10px;">
+    </a>
+</p>
+
+<br><br><br><br>
 
