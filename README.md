@@ -67,8 +67,8 @@
 > -----
 
 <br>
-
-## [SHIELD ECOSYSTEMS: ENGINEERING RESILIENCE THROUGH DECENTRALIZED ACTION.](https://github.com/mrsamrohan/mrsamrohan/blob/main/shield_ecosystems.md#shield-ecosystems-engineering-resilience-through-decentralized-action)
+ 
+> ## [Explore SHIELD ECOSYSTEMS: Engineering Resilience Through Decentralized Action.](https://github.com/mrsamrohan/mrsamrohan/blob/main/shield_ecosystems.md#shield-ecosystems-engineering-resilience-through-decentralized-action)
 
 <br><br>
 
@@ -85,6 +85,18 @@
 <br>
 
 > ## [Review the Student Training Agreement.](https://github.com/mrsamrohan/mrsamrohan/blob/main/student_training_agreement.md#mr-sam-rohan)
+
+<br>
+
+> ## [Learn more about Mastering Markdown for Technical Documentation.](https://github.com/mrsamrohan/mrsamrohan/blob/main/mastering_markdown.md#mastering-markdown-for-technical-documentation)
+
+<br>
+
+> ## [Explore The Open-Source Revolution.](https://github.com/mrsamrohan/mrsamrohan/blob/main/opensource_revolution.md#the-open-source-revolution-how-foss-is-democratizing-innovation-and-reshaping-society)
+
+<br>
+
+> ## [Explore Democratizing Innovation.](https://github.com/mrsamrohan/mrsamrohan/blob/main/democratizing_innovstion.md#democratizing-innovation-how-open-source-philosophy-is-reshaping-scientific-engineering-and-technological-research)
 
 <br><br>
 
