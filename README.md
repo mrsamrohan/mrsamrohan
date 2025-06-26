@@ -48,11 +48,29 @@
 
 <br><br>
 
+> ---
+>
+> ![image](https://yt3.ggpht.com/PxuULJ4p6OwDVH5ex34ZY1Vh4ToDAQ0LFcFEQEy8kmJZYre_FuovX_F2T-ADDTLZnyyNTfwf_mKg=s1600-rw-nd-v1)
+>
+> 
+> ## [MEDSECOPS: MEDICAL SECURITY OPERATIONS | Cost-Free Cybersecurity for Small and Mid-Size Healthcare Providers.](https://github.com/mrsamrohan/mrsamrohan/blob/main/med_sec_ops.md#medical-security-operations)
+>
+> ---
+
+<br><br>
+
+
+> ---
+> 
+> ![image](https://yt3.ggpht.com/VrWjxv7VyLnAJbKpfvYTv2QGf6bH8XXWlsBFJjQK-d-Q_UyNZsd44LcjwM_gGaxX3YGXIAysKmQaows=s1120-rw-nd-v1)
+>
+> ---
+
 
 > ## INSTITUTIONAL TO INDUSTRIAL TRANSITION!
 
-<details>
-<summary>CLICK HERE TO READ MORE.</summary>
+><details>
+><summary>CLICK HERE TO READ MORE.</summary>
 
 <br><br>
 
@@ -80,6 +98,7 @@ Together, these tracks converge to **empower industry-wide equilibrium**—trans
 </details>
 
 <br>
+ 
 
 > ## ADVANCED CYBER INTELLIGENCE R&D PROGRAM FOR INSTITUTIONAL TO INDUSTRIAL TRANSITION.
 
