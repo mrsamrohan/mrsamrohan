@@ -10,7 +10,7 @@
 > ![image](https://yt3.ggpht.com/r6pawTpbhbGBX-OMZF-N_8ilgs_8bjKIUKX1AiWobbWl5O2-cyK1r9z4LF31RbznIiiZFzmLlHdMwA=s1600-rw-nd-v1)
 >
 > 
-> Greetings. I am **[Sam Rohan,](https://x.com/mrsamrohan)** an Indian-born **entrepreneur** and **security engineering leader** dedicated to advancing next-generation **cybersecurity** solutions and fortifying **cyber-physical systems** for global enterprises. My mission transcends traditional security models, uniting open-source innovation, ethical governance, and scalable transparency to **safeguard mission-critical operations** in an era of relentless technological evolution. At my core lies a guiding principle: *“Security demands perpetual adaptation—achieved not through obscurity, but through collaborative resilience.”*  
+> Greetings. I am **Sam Rohan,** an Indian-born **entrepreneur** and **security engineering leader** dedicated to advancing next-generation **cybersecurity** solutions and fortifying **cyber-physical systems** for global enterprises. My mission transcends traditional security models, uniting open-source innovation, ethical governance, and scalable transparency to **safeguard mission-critical operations** in an era of relentless technological evolution. At my core lies a guiding principle: *“Security demands perpetual adaptation—achieved not through obscurity, but through collaborative resilience.”*  
 >
 > <br>
 >
