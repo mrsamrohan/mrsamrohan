@@ -59,7 +59,6 @@
 
 <br><br>
 
-
 > ---
 > 
 > ![image](https://yt3.ggpht.com/VrWjxv7VyLnAJbKpfvYTv2QGf6bH8XXWlsBFJjQK-d-Q_UyNZsd44LcjwM_gGaxX3YGXIAysKmQaows=s1120-rw-nd-v1)
@@ -69,8 +68,8 @@
 
 > ## INSTITUTIONAL TO INDUSTRIAL TRANSITION!
 
-><details>
-><summary>CLICK HERE TO READ MORE.</summary>
+<details>
+<summary>CLICK HERE TO READ MORE.</summary>
 
 <br><br>
 
