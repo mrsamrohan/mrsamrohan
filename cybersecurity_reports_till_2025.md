@@ -14,6 +14,17 @@
 
 <br><br>
 
+**TABLE OF CONTENTS:**
+
+1. [KEY INSIGHTS & NUMERICAL CATALOG 2020–2025](https://github.com/mrsamrohan/mrsamrohan/blob/main/cybersecurity_reports_till_2025.md#key-insights--numerical-catalog-20202025)
+2. [GLOBAL CYBERSECURITY LANDSCAPE AND IMPACT ANALYSIS 2020–2025](https://github.com/mrsamrohan/mrsamrohan/blob/main/cybersecurity_reports_till_2025.md#global-cybersecurity-landscape-and-impact-analysis-20202025)
+3. [GLOBAL CYBERSECURITY WORKFORCE GAP 2020–2025](https://github.com/mrsamrohan/mrsamrohan/blob/main/cybersecurity_reports_till_2025.md#global-cybersecurity-workforce-gap-20202025)
+4. [EXPLORING THE MULTI-LAYERED CHALLENGES BEHIND THE 3.5 MILLION UNFILLED CYBERSECURITY POSITIONS](https://github.com/mrsamrohan/mrsamrohan/blob/main/cybersecurity_reports_till_2025.md#exploring-the-multi-layered-challenges-behind-the-35-million-unfilled-cybersecurity-positions)
+5. [THE INDIAN CYBERSECURITY ECOSYSTEM 2020–2035](https://github.com/mrsamrohan/mrsamrohan/blob/main/cybersecurity_reports_till_2025.md#the-indian-cybersecurity-ecosystem-20202035)
+6. [GLOBAL HEALTHCARE CYBERSECURITY BREACH REPORT 2020–2025](https://github.com/mrsamrohan/mrsamrohan/blob/main/cybersecurity_reports_till_2025.md#global-healthcare-cybersecurity-breach-report-20202025)
+
+<br><br>
+
 <h1 align="center">KEY INSIGHTS & NUMERICAL CATALOG 2020–2025.</h1>
 
 <br>
