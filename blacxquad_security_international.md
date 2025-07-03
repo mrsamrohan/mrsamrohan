@@ -12,6 +12,22 @@
     </a>
 </p>
 
+<br><br><br><br>
+
+
+1. [BLACXQUAD SECURITY INTERNATIONAL](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#blacxquad-security-international)
+2. [DECLARATION OF INTELLECTUAL PROPERTY OWNERSHIP AND USAGE RESTRICTIONS FOR BLACXQUAD](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#declaration-of-intellectual-property-ownership-and-usage-restrictions-for-blacxquad)
+3. [OPERATIONAL DOCTRINES FOR THE GUARDIANS OF DIGITAL COMMONS](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#operational-doctrines-for-the-guardians-of-digital-commons)
+4. [THE CYBERSECURITY STEWARD: EMBODYING THE GOOD SAMARITAN ETHOS IN DIGITAL DEFENSE](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#the-cybersecurity-steward-embodying-the-good-samaritan-ethos-in-digital-defense)
+5. [TRUE COMMITMENT TO ETHICAL CYBERSECURITY](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#true-commitment-to-ethical-cybersecurity)
+6. [FREE AND OPEN SOURCE SOFTWARE: THE INDISPENSABLE ENGINE OF SECURE DIGITAL EVOLUTION AND DEMOCRATIC SOCIETAL TRANSFORMATION](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#free-and-open-source-software-the-indispensable-engine-of-secure-digital-evolution-and-democratic-societal-transformation)
+7. [DEMOCRATIZING INNOVATION: THE TRANSFORMATIVE IMPACT OF OPEN-SOURCE PHILOSOPHY ON SCIENTIFIC, ENGINEERING, AND TECHNOLOGICAL RESEARCH](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#democratizing-innovation-the-transformative-impact-of-open-source-philosophy-on-scientific-engineering-and-technological-research)
+8. [THE NEXT-GENERATION RESEARCHER’S COMPENDIUM: BRIDGING PHILOSOPHICAL RIGOR AND TRADITIONAL METHODOLOGY IN MODERN SCHOLARSHIP](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#the-next-generation-researchers-compendium-bridging-philosophical-rigor-and-traditional-methodology-in-modern-scholarship)
+9. [BLACXQUAD'S ADVANCED CYBER INTELLIGENCE RESEARCH & DEVELOPMENT PROGRAM](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#blacxquads-advanced-cyber-intelligence-research--development-program)
+10. [BLACXQUAD'S SHIELD ECOSYSTEMS: ENGINEERING RESILIENCE THROUGH DECENTRALIZED ACTION](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#blacxquads-shield-ecosystems-engineering-resilience-through-decentralized-action)
+11. [BLACXQUAD'S SECURITY GLOCALIZATION FRAMEWORK](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#blacxquads-security-glocalization-framework)
+12. [BLACXQUAD'S DUAL ENGINE ARCHITECTURE](https://github.com/mrsamrohan/mrsamrohan/blob/main/blacxquad_security_international.md#blacxquads-dual-engine-architecture)
+
 
 <br><br><br><br>
 
