@@ -46,4 +46,24 @@
 >
 > -----
 
-<br><br>
+<br><br><br><br>
+
+---
+
+<br><br><br><br>
+
+
+> ---
+>
+> <h3 align="center">WELCOME TO</h3>
+> <h1 align="center">BLACXQUAD SECURITY INTERNATIONAL</h1>
+> <h3 align="center">GUARDIANS OF THE DIGITAL COMMONS!</h3>
+>
+> > ![image](https://yt3.ggpht.com/uYa0cvLOkthZSWSgMpnIZWuQoAbeKIuimkYlE5MKGcYQkBU0-6QIgYMvkaS8yi1I6FhofZAVrVRMVA=s1120-rw-nd-v1)
+>
+>
+> **BLACXQUAD SECURITY INTERNATIONAL (BXDSI)**  stands as a vanguard entity within the cybersecurity landscape, embodying a potent synthesis of cutting-edge research, collaborative engineering, and unwavering ethical commitment. It functions as a global nexus for cybersecurity professionals, researchers, engineers, students, and policy architects, united by a mission to advance frontier security technologies—spanning zero-trust principles, quantum-resistant infrastructure, and AI-powered threat neutralization. Operating as a decentralized digital ecosystem, **BLACXQUAD** transcends geographical constraints to cultivate a planetary collective intelligence focused on solving humanity's most pressing digital security challenges. Its foundational pillars—open-source philosophy, democratic knowledge access, and ethical responsibility—position it uniquely at the forefront of reshaping cybersecurity research and practice.
+>
+> ---
+
+<br>
