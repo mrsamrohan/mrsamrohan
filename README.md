@@ -46,3 +46,20 @@
 >
 > -----
 
+> -----
+
+<br><br>
+
+---
+
+<br><br>
+
+> ---
+>
+> <h1 align="center">INSTITUTIONAL TO INDUSTRIAL TRANSITION!</h1>
+>
+> <h3 align="center">A HOLISTIC SKILL DEVELOPMENT PROGRAM FOR NEXT-GEN EMPLOYERS & EMPLOYEES - EMPOWERING EQUILIBRIUM IN INDUSTRY THROUGH DUAL-TRACK EXCELLENCE.</h3>
+>
+> ![image](https://yt3.ggpht.com/VhOJbVarfRxjZvVztw7vYPzAvsy_ajZxGR3pcfbEfeMU-ijJJIaZcUaKE_nKKFtMmFm6iayIi3kgJxU=s1120-rw-nd-v1)
+>
+> ---
