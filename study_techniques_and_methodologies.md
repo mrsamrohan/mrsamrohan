@@ -16,12 +16,11 @@
 <br><br>
 
 
-<h1 align="center">OFFICIAL NOTICE:</h1>
+<h1 align="center">Comprehensive Compendium of Study Techniques and Methodologies (Extended Edition): A Psychological and Educational Analysis.</h1>
 
 <br>
 
 
-# **Comprehensive Compendium of Study Techniques and Methodologies (Extended Edition): A Psychological and Educational Analysis.**
 
 <br>
 
