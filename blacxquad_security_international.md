@@ -16,6 +16,23 @@
 </p>
 
 
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                   • BXDSI AUTHORIZED PERSONNEL IDENTITY •                    │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  **NAME**:  Sam Rohan                                                        │
+│  **TITLE**: Founder & Principal Architect                                    │
+│  **ENTITY**: BLACXQUAD SECURITY INTERNATIONAL (BQSI)                         │
+│  **DOMAIN**: Cyber-Physical Defense Engineering | AI-Augmented Security Ops  │
+│                                                                              │
+│  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   │
+│                                                                              │
+│  **COMMAND CENTER**: India | **DEPLOYMENTS**: Active Globally                │
+│                                                                              │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <br><br>
 
